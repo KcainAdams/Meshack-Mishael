@@ -16,7 +16,7 @@ class Card:
 
     @classmethod
     def get_back_file(cls):
-        cls.back = ttk.PhotoImage(file=assets_folder + "\\back.png")
+        cls.back = ttk.PhotoImage(file=assets_folder + "/back.png")
         return cls.back
 
     def get_file(self):
@@ -156,6 +156,7 @@ class GameState:
     def player_score_as_text(self):
         return "Score: " + str(self.player_hand.get_value())
 
+
 class GameScreen(ttk.Tk):
     def __init__(self):
         super().__init__()
@@ -253,7 +254,7 @@ class GameScreen(ttk.Tk):
 
     def play_again(self):
         self.show_gameplay_buttons
-        self.game_state = GameState()
+        self.game_state = Gamestate()
         self.display_table()
 
     def show_gameplay_buttons(self):

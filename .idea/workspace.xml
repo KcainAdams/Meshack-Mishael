@@ -2,6 +2,179 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f72443e3-b1fb-4be7-8ed9-509c530ecf2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapter02/Ch2/Cards/BlackJack_V2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/Ch2/assets/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/Ch2/assets/tabletop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Backs/Card-Back-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Backs/Card-Back-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Backs/Card-Back-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Backs/Card-Back-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Backs/Card-Back-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Backs/Card-Back-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/c01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/c02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/c03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/c04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/c05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/c06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/c07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/c08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/c09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/c10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/c11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/c12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/c13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/d01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/d02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/d03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/d04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/d05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/d06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/d07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/d08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/d09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/d10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/d11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/d12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/d13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/h01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/h02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/h03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/h04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/h05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/h06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/h07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/h08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/h09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/h10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/h11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/h12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/h13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/s01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/s02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/s03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/s04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/s05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/s06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/s07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/s08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/s09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/s10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/s11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/s12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Classic/s13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/c01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/c02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/c03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/c04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/c05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/c06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/c07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/c08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/c09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/c10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/c11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/c12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/c13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/d01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/d02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/d03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/d04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/d05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/d06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/d07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/d08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/d09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/d10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/d11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/d12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/d13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/h01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/h02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/h03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/h04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/h05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/h06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/h07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/h08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/h09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/h10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/h11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/h12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/h13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/s01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/s02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/s03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/s04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/s05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/s06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/s07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/s08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/s09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/s10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/s11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/s12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern Custom/s13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/c01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/c02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/c03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/c04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/c05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/c06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/c07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/c08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/c09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/c10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/c11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/c12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/c13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/d01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/d02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/d03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/d04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/d05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/d06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/d07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/d08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/d09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/d10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/d11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/d12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/d13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/h01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/h02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/h03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/h04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/h05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/h06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/h07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/h08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/h09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/h10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/h11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/h12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/h13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/s01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/s02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/s03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/s04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/s05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/s06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/s07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/s08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/s09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/s10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/s11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/s12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Cards/Modern/s13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Sprite Fonts/classic-cards.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Sprite Fonts/custom-cards.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Sprite Fonts/modern-cards.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Sprite Sheets/classic_13x4x560x780.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Sprite Sheets/custom_13x4x560x780.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/Sprite Sheets/modern_13x4x560x780.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter02/assets/tabletop.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter02/Ch2/Blackjack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter02/Ch2/Blackjack.py" afterDir="false" />
     </list>
@@ -9,6 +182,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
     <envs>
@@ -45,16 +225,43 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter02" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Frankline Sable\PycharmProjects\Meshack-Mishael\Chapter02\Ch2\assets\Backs" />
+      <recent name="C:\Users\Frankline Sable\PycharmProjects\Meshack-Mishael\Chapter02\Ch2\assets" />
       <recent name="C:\Users\Frankline Sable\Documents\GitHub\Meshack-Mishael\Chapter02\Ch2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Frankline Sable\PycharmProjects\Meshack-Mishael\Chapter02\Ch2\assets" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Blackjack">
+    <configuration name="BlackJack_V2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Meshack-Mishael" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter02/Ch2/Cards" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter02/Ch2/Cards/BlackJack_V2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Meshack-Mishael" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,6 +276,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter02/Ch2/Blackjack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Card" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Meshack-Mishael" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter02/Ch2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter02/Ch2/Card.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,9 +328,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ch2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Meshack-Mishael" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter02/Ch2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter02/Ch2/ch2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class-exam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Meshack-Mishael" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter02/Ch2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter02/Ch2/class-exam.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Blackjack" />
+        <item itemvalue="Python.BlackJack_V2" />
+        <item itemvalue="Python.Card" />
+        <item itemvalue="Python.ch2" />
+        <item itemvalue="Python.class-exam" />
       </list>
     </recent_temporary>
   </component>
@@ -117,6 +394,7 @@
       <workItem from="1641368170915" duration="4567000" />
       <workItem from="1641383216895" duration="392000" />
       <workItem from="1641384186473" duration="2662000" />
+      <workItem from="1641395769064" duration="2146000" />
     </task>
     <servers />
   </component>
@@ -138,18 +416,12 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Chapter02/Ch2/Blackjack.py</url>
-          <line>199</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Meshack_Mishael$Blackjack.coverage" NAME="Blackjack Coverage Results" MODIFIED="1641386584023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter02/Ch2" />
+    <SUITE FILE_PATH="coverage/Meshack_Mishael$Card.coverage" NAME="Card Coverage Results" MODIFIED="1641389342057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter02/Ch2" />
+    <SUITE FILE_PATH="coverage/Meshack_Mishael$ch3_canvas.coverage" NAME="ch3-canvas Coverage Results" MODIFIED="1641389309245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter03/Ch3" />
+    <SUITE FILE_PATH="coverage/Meshack_Mishael$class_exam.coverage" NAME="class-exam Coverage Results" MODIFIED="1641389322133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter02/Ch2" />
+    <SUITE FILE_PATH="coverage/Meshack_Mishael$ch2.coverage" NAME="ch2 Coverage Results" MODIFIED="1641389332430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter02/Ch2" />
+    <SUITE FILE_PATH="coverage/Meshack_Mishael$BlackJack_V2.coverage" NAME="BlackJack_V2 Coverage Results" MODIFIED="1641397758790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter02/Ch2/Cards" />
+    <SUITE FILE_PATH="coverage/Meshack_Mishael$Blackjack.coverage" NAME="Blackjack Coverage Results" MODIFIED="1641397967336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter02/Ch2" />
   </component>
 </project>
