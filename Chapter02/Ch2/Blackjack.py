@@ -2,7 +2,8 @@ import os
 import tkinter as ttk
 import random
 
-assets_folder = os.path.join(os.path.dirname(__file__),'assets\\')
+assets_folder = os.path.join(os.path.dirname(__file__), 'assets\\')
+
 
 # stop using absolute paths,
 # --->os.path.abspath(os.path.join(os.path.dirname(__file__),'..', 'assets/'))
@@ -13,7 +14,6 @@ assets_folder = os.path.join(os.path.dirname(__file__),'assets\\')
 # outputs---> C:\Users\Frankline Sable\PycharmProjects\Meshack-Mishael\Chapter02\Ch2\assets\
 
 class Card:
-    print(assets_folder)
 
     def __init__(self, suit, value):
         self.suit = suit
@@ -24,7 +24,7 @@ class Card:
 
     @classmethod
     def get_back_files(cls):
-        cls.back = ttk.PhotoImage(file=assets_folder + "/back.png")
+        cls.back = ttk.PhotoImage(file=assets_folder + "back.png")
 
         return cls.back
 
@@ -118,6 +118,7 @@ class Gamestate:
     def get_table_state(self):
         blackjack = False
         winner = self.has_winner
+
         if not winner:
             winner = self.someone_has_blackjack()
             if winner:
@@ -179,10 +180,16 @@ class GameScreen(ttk.Tk):
 
     def display_table(self, hide_dealer=True, table_state=None):
         if not table_state:
+            # During initialisation this variable will be null(nontype)
+            # While the program is booting up,variable table_state is variable is empty
             table_state = self.game_state.get_table_state()
 
+        # check if table_state is empty to handle the error during bootup.
+        if not table_state:
+            return
         player_card_images = [card.get_back_file() for card in table_state['player_cards']]
         dealer_card_images = [card.get_back_file() for card in table_state['dealer_cards']]
+
         if hide_dealer and not table_state['blackjack']:
             dealer_card_images[0] = Card.get_back_file()
 
